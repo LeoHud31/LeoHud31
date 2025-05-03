@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo Hudson</h1>
 <h3 align="center">Currently Studying Computer Science with Cyber Security at the University of Huddersfield.</h3>
 
-- 🌱 I’m currently learning **Cyber Security, Digital Forensics, C and Web development**
+- 🌱 I’m currently learning **Cyber Security/ Penetration Testing**
 
 
 <p align="left">
